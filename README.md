@@ -66,4 +66,4 @@ em strong {
 
    .itens{
         font-style: italic;
-   }
+   } 
